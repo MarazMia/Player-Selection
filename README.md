@@ -50,9 +50,9 @@ The website is a prototype. Future goal use to test it and host it in the server
 
 ---
 For any inquiry please contact
-1. [Pulock](pulockkamol50@gmail.com)
-1. [Maraz](maraj262000@gmail.com)
-1. [Ohee](sfiohee@gmail.com)
+1. [Pulock](https://www.facebook.com/pulockdas.das)
+1. [Maraz](https://marazmia.github.io/Personal_Website/)
+1. [Ohee](https://www.facebook.com/profile.php?id=100007797257515)
 ---
 
 ## License and Agreement
