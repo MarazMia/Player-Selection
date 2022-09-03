@@ -34,6 +34,9 @@ So, one only needs to give the data of their corresponding players and they can 
 For front end `Javascript`, `HTML` and `CSS` are used. `HandleBars` were used as rendering engine.
 ## Back End
 `MySQL` is used for making the database and tables. All the records are stored in this database.
+All the backends API were build using NodeJs and ExpressJs
+
+
 ![Preview](https://github.com/PulockDas/Player-Selection/blob/main/Screenshot%20(139).png)
 ![Relational Database](https://github.com/PulockDas/Player-Selection/blob/main/Screenshot%20(9).png)
 
